@@ -1,0 +1,16 @@
+h1{
+    font-family: 'Libre Baskerville', serif;
+font-family: 'Rubik Iso', cursive;
+    color: brown;
+    font-size: large;
+    font-weight: 900;
+    font-style: italic;
+}
+p{
+    font-family: 'Black Ops One', cursive;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Rubik Iso', cursive;
+}
+html{
+    background-color: blue;
+}
